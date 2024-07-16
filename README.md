@@ -6,7 +6,7 @@
 <br />
 <div align="center" id='readme-top'>
   <a href="">
-    <img src="https://github.com/arpan-kumar-saini/music-website/blob/main/images/pic3.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/ritu-singh-4002/Cat-Vs-Dog-Image-Classification/blob/main/catvsdog.jpeg" alt="Logo" width="180" height="80">
   </a>
 
   <h3 align="center">Cat-Vs-Dog-Image-Classification</h3>
@@ -33,7 +33,6 @@
     </li>      
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -41,32 +40,18 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src='https://github.com/arpan-kumar-saini/stock-animation/blob/main/PortfolioHomepage.gif'>
+<img src='https://github.com/ritu-singh-4002/Cat-Vs-Dog-Image-Classification/blob/main/Cats%20vs%20Dogs.gif'>
 
+🐱🆚🐶 Developed an image classification system using AI to distinguish between cats and dogs.
 
-🌟 Welcome to the vibrant digital universe of Arpan Saini! 🚀 <br>
+🧠 Trained a robust convolutional neural network (CNN) on a comprehensive dataset, leveraging the power of deep learning.
 
-🎨 Crafting digital dreams into reality, one pixel at a time! 🖥️ <br>
+🔄 Employed advanced techniques like transfer learning to enhance model performance, achieving exceptional accuracy.
 
-👨‍💻 Meet Arpan Saini, your friendly neighborhood web wizard! 💫 <br>
+🎯 Fine-tuned model parameters and hyperparameters meticulously for optimal precision and reliability.
 
-🌟 Who am I? Just your average code conjurer with a sprinkle of creativity! 🎩✨ <br>
+🚀 Thrilled to unveil the impact of AI in visual recognition—transforming data into meaningful insights!
 
-🚀 Let's dive into a world where imagination meets innovation! 🌈 <br>
-
-🔥 I'm not just a developer, I'm a digital architect building bridges between dreams and code! 🏗️💭 <br>
-
-💡 Need a website that pops? Look no further! I turn visions into visually stunning realities! 🎉 <br>
-
-🌟 From sleek designs to seamless functionality, I've got your back! 💻💫 <br>
-
-🚀 Join me on a journey where every click sparks joy and every scroll tells a story! 📜✨ <br>
-
-💥 Let's collaborate and create digital masterpieces that leave the world in awe! 🌍🎨 <br>
-
-🔥 So, what are you waiting for? Let's make magic together! 🌟✨ <br>
-
-👉 Dive into my portfolio and let's bring your digital dreams to life! 🌟💻 <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,9 +59,7 @@
 
 ### Built With
 
-* HTML
-* CSS
-* JAVASCRIPT
+* Google CoLab
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,14 +99,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- CONTACT -->
-## Contact
 
-Your Name - [@arpan_kumar_saini](https://www.instagram.com/arpan_kumar_saini/) - arpansaini55@gamil.com
-
-Project Link: [https://github.com/arpan-kumar-saini/arpansaini](https://github.com/arpan-kumar-saini/arpansaini)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
